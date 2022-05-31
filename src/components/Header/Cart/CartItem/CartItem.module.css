@@ -1,6 +1,7 @@
 td {
   text-align: start;
   border-bottom: 1px solid gray;
+  padding: 10px 0;
 }
 tbody {
   width: 100%;
